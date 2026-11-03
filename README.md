@@ -1,16 +1,13 @@
-## Hi there 👋
+## About me
 
-<!--
-**dryanfix/dryanfix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent security researcher focused on bug bounty hunting.
 
-Here are some ideas to get you started:
+My work is methodical: I start from the target's own audit reports and fix history, audit the code end to end, and I only report what I can prove — a working vulnerability, a runnable proof of concept, and a measured impact with real numbers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focus areas:
+- Web application security (authentication, session management, access control, API logic)
+- Smart contract audits
+
+Currently hunting on public and self-hosted bug bounty programs.
+
+Contact: dryanwillfix@gmail.com

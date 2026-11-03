@@ -1,6 +1,6 @@
 ## About me
 
-Independent security researcher focused on bug bounty hunting.
+Researcher focused on bug bounty hunting.
 
 My work is methodical: I start from the target's own audit reports and fix history, audit the code end to end, and I only report what I can prove — a working vulnerability, a runnable proof of concept, and a measured impact with real numbers.
 
